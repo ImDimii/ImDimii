@@ -58,8 +58,7 @@ Quando non sto studiando Algoritmi o Sistemi Operativi, mi trovi ad allenarmi in
 ### 📊 Le mie Statistiche GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imdimii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdimii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=dimitricotilli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
