@@ -2,7 +2,7 @@
   <h1>⚡️ Ciao, sono Dimitri Cotilli! ⚡️</h1>
   
   <!-- Animazione del testo in stile macchina da scrivere -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Studente+di+Ingegneria+Informatica+(UNICAL)+💻;Music+Producer+(Trap%2FHip-Hop)+🎹;Full-Stack+Web+Developer+🚀;Appassionato+di+IoT+%26+Hardware+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Studente+di+Ing.+Informatica+(UNICAL)+💻;Music+Producer+(Trap%2FHip-Hop)+🎹;Full-Stack+Web+Developer+🚀;Appassionato+di+IoT+%26+Hardware+⚙️" alt="Typing SVG" />
 </div>
 
 <br/>
