@@ -58,7 +58,7 @@ Quando non sto studiando Algoritmi o Sistemi Operativi, mi trovi ad allenarmi in
 ### 📊 Le mie Statistiche GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dimitricotilli&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=imdimii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
