@@ -2,7 +2,7 @@
   <h1>⚡️ Ciao, sono Dimitri Cotilli! ⚡️</h1>
   
   <!-- Animazione del testo in stile macchina da scrivere -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Studente+di+Ingegneria+Informatica+all'UNICAL+💻;Music+Producer+(Trap%2FHip-Hop)+🎹;Full-Stack+Web+Developer+🚀;Appassionato+di+IoT+%26+Hardware+⚙️" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Studente+di+Ingegneria+Informatica+(UNICAL)+💻;Music+Producer+(Trap%2FHip-Hop)+🎹;Full-Stack+Web+Developer+🚀;Appassionato+di+IoT+%26+Hardware+⚙️" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -58,7 +58,6 @@ Quando non sto studiando Algoritmi o Sistemi Operativi, mi trovi ad allenarmi in
 ### 📊 Le mie Statistiche GitHub
 
 <div align="center">
-  <!-- Sostituisci TUO_USERNAME_QUI con il tuo vero username di GitHub in entrambi i link qui sotto -->
   <img src="https://github-readme-stats.vercel.app/api?username=imdimii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdimii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
