@@ -9,7 +9,7 @@
 
 Benvenuto sul mio profilo GitHub! 👋 Sono uno studente di **Ingegneria Informatica al 2° anno presso l'UNICAL**, ma la mia tastiera non compila solo codice: ho studiato al Conservatorio e sono un **produttore musicale**. Mi piace combinare la logica rigorosa della programmazione con la creatività della produzione audio e del sound design.
 
-Quando non sto studiando Algoritmi o Sistemi Operativi, mi trovi ad allenarmi in palestra 🏋️‍♂️, a smanettare con microcontrollori o a gestire VPS e server.
+Quando non sto studiando Algoritmi o Sistemi Operativi, mi trovi ad allenarmi in palestra 🏋️‍♂️, a smanettare con microcontrollori o a gestire VPS.
 
 ---
 
